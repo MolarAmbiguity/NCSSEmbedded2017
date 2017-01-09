@@ -22,5 +22,5 @@ while True:
     else:
         radio.send('stop')
         display.clear()
-    sleep(5)
+    sleep(6)
     
